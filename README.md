@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="NodeJS"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
@@ -49,23 +48,4 @@
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js"/>
   <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas"/>
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="Scikit-Learn"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferareosa&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ferareosa&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferareosa&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
----
