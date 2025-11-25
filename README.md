@@ -46,6 +46,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=pd" height="40" alt="Pandas"/>
   <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="Scikit-Learn"/>
 </p>
